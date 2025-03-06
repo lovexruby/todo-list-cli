@@ -3,7 +3,6 @@ from tkinter import ttk
 import json
 import os
 import numpy as np
-from scipy.cluster.hierarchy import weighted
 
 FORM_FILE = "form_file" #Name the file
 
